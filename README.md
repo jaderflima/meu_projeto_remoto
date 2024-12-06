@@ -1,6 +1,10 @@
 # meu_projeto_remoto
 Exercício do Next - Módulo Git
 
+## Pré-requisitos
+
+- Conhecimento básico sobre desenvolvimento de software.
+- Git instalado no seu sistema. Caso não tenha, instale [aqui](https://git-scm.com/).
 
 # Curso de Git - Guia Inicial
 
@@ -12,8 +16,5 @@ Bem-vindo ao curso de Git! Neste curso, você aprenderá o básico do Git, um si
 - Aprender comandos essenciais do Git.
 - Saber como criar e gerenciar repositórios Git.
 
-## Pré-requisitos
 
-- Conhecimento básico sobre desenvolvimento de software.
-- Git instalado no seu sistema. Caso não tenha, instale [aqui](https://git-scm.com/).
  
